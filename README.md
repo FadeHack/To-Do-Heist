@@ -1,6 +1,6 @@
 # ToDo Heist
 
-A simple ToDo application for managing tasks.
+This project is a web-based task management system called "ToDO Heist". It allows users to create, manage, and track tasks. The system supports both admin and user roles, with different functionalities available to each role.
 
 ## Tech Specifications
 
