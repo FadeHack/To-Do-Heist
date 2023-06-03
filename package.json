@@ -14,7 +14,7 @@
     "user",
     "admin"
   ],
-  "author": "shivam",
+  "author": "FadeHack",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.0",
