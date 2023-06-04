@@ -49,9 +49,8 @@ This project is a web-based task management system called "ToDO Heist". It allow
 
 1. Clone the repository.
 2. Install the dependencies using `npm install`.
-3. Set up the database connection in the `config.js` file.
-4. Run the application using `npm start`.
-5. Access the application in your web browser at `http://localhost:3000`.
+3. Run the application using `npm start`.
+4. Access the application in your web browser at `http://localhost:3000`.
 
 ## License
 
